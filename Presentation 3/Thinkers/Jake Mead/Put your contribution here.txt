@@ -1,6 +1,3 @@
-Put whatever you did here, except data files. Don't put any data files (tissue images) here, they are too large for github. You may indicate the data your code uses - provide the OneDrive link to that data, or just mention the path to it.
-
-If you wrote any code (python / QuPath / any other language), comment it well, and put it here, along with a Readme file describing the code. If the code is meant to be useful to other people, put instructions in the Readme file on how to use it. You will get extra credit if many people use your code!
-
-If you did literature survey, then put it here as well.
-
+- Trying to overcome problems in Alyssa's code (not writing code, Anna and Kota wrote the code this week)
+- Tasked by consultants to create evaluation code for Aryaman's and Eli's code for vizualizations on the website (still working on this, but just trying to run the code without evaluation takes hours and doesn't produce results -> asking Aryaman for assistance)
+- After Wednesday 2/5 lecture -> thinking of way to convert existing one class annotations to multi-class for coders to use. Depending on coders needs, simple solution using MS paint is promising.
